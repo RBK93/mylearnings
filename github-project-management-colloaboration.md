@@ -41,4 +41,25 @@
   - link project to repo manually for faster access to project from repo
 - #### Assigning issues to people
   - repo > setting > collaborator > email to teammact > accept invite > ready to assign
-  
+- #### lables 
+  - to use in issues, pr etc 
+- #### Task Lists
+ - adding check lists  
+    - [ ] Unchecked task
+    - [x] checked task 
+  - tasks added in deascription can be converted to issues
+- #### slash command
+ - / code block ( suggests a syntax highligh)
+- #### Emojis 
+  - :)
+- #### Views & Filters 
+  - table, board etc save view and use
+  - click and drag as per wish 
+  - filters ( assignee: @RBK93 etc status: Done , Todo -status: 'inprogress')
+    - '-' to negate filter 
+- #### Insights 
+  - charts 
+  - bars 
+  - insights etc
+
+
