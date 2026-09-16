@@ -25,4 +25,8 @@
 - some usage data retained for R&D
 - Allows Organization Policies ( allow/disallow match public code)
 
+#### Tips
+- cmd+shift+p search copilot suggestion panel to get the list of different solutions suggested by copilot for the file currently opened
+- 
+
 
