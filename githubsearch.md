@@ -1,0 +1,44 @@
+### Github Code Search
+- rust
+- sharding
+- delta encoding
+- search TB data in millisecond
+#### Featured
+- regex
+- boolean
+- many shortcuts
+- suggestion and autocompletion
+- build and save searches
+- new code view w/ side bar
+#### to search
+- hit / or s key to access the search bar
+- ? key to get all shortcuts in github
+- esc to get out
+- searches entire github code base
+- add owner: 'account' or repo:'reponame' to search specifically
+- search qualifiers
+  - owner
+  - org
+  - user
+  - repo
+  - language
+  - filename
+  - path
+  - author
+  - ... etc
+  - flex qualifiers
+    - is
+    - in
+    - type
+- Sort by stars , discussions etc
+- save the search results
+#### Search Operators
+- `> >= < <=`
+- Range 10 ..* 10+ items
+- *..10 upto 10 items
+- 10..100 
+- date YYYY-MM-DD , datetime YYYY-MM-DDTHH:MM:SSZ
+- exclude - , NOT
+- Quote "search key"
+- sort:*
+- -asc, -desc, -date, -indexed, -updated
